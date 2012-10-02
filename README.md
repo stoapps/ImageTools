@@ -72,6 +72,7 @@ This project is just getting started. Next up for `ImageTools` are the following
 ImageTools was created by [Tapasya](https://github.com/tapasya/).
 
  [InfColorPicker] (https://github.com/InfinitApps/InfColorPicker/) is being used for the color selection interface.
+ 
  [Stoapps](http://github.com/stoapps) for the implementation of blocks design pattern
 
 ### Creators
